@@ -5,6 +5,7 @@
 Write your code in this editor and press "Run" button to execute it.
 
 '''
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 
